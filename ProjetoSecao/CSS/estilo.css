@@ -1,0 +1,26 @@
+header{
+    text-align: center;
+    color: black;
+    background-color: azure;
+    font-family: calibri;
+    border: 3px solid azure;
+}
+main{
+    background-color: mediumpurple;
+    font-family: calibri;
+    border: 3px solid mediumpurple;
+}
+ul{
+    font-family: calibri;
+    list-style: none;
+}
+li.um{
+    display: inline-block;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: calibri;
+    border: 3px solid black;
+}
